@@ -21,7 +21,7 @@ steps:
   inputs:
     restoreSolution: '$(solution)'
 
-<!-- Demo2 -->
+<!-- Demo3 -->
 
 - task: VSBuild@1
   inputs:
